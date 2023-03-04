@@ -1,0 +1,1 @@
+/home/enclar/.virtualenvs/myvirtualenv/bin/pip
