@@ -1,0 +1,32 @@
+[
+    {
+        "model": "transaction_app.Transaction",
+        "pk": 1,
+        "fields": {
+            "name": "Yakun breakfast",
+            "amount": "4.50",
+            "date": "2023-03-04",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "transaction_app.Transaction",
+        "pk": 2,
+        "fields": {
+            "name": "Book from Kinonukiya",
+            "amount": "29.90",
+            "date": "2023-03-04",
+            "category": "Shopping"
+        }
+    },
+    {
+        "model": "transaction_app.Transaction",
+        "pk": 3,
+        "fields": {
+            "name": "Birthday gift for Mum",
+            "amount": "64.90",
+            "date": "2023-03-04",
+            "category": "Shopping"
+        }
+    }
+]
